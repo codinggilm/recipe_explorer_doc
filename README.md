@@ -1,1 +1,1 @@
-# Static page to show the search terms avialable on the Recipe Explorer app
+# Static page showing the search terms avialable on the Recipe Explorer app
